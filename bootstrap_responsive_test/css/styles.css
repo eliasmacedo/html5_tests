@@ -1,0 +1,36 @@
+header>h1 {
+	padding-bottom: 15px;
+}
+h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+#main-nav.navbar {
+	background-color: #e7e7e7;
+}
+#nav-list li {
+	background-color: #d0e3fa; /*light blue*/
+}
+/*
+#nav-list.navbar-nav>li.active {
+	background-color: #b3d2f7; /* darker light blue*/
+/*}*/
+
+#nav-list.navbar-nav a:hover {
+	background-color: #b3d2f7; /* darker light blue*/
+	font-weight: bold;
+}
+
+div#main-content {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.menu-item {
+	height: 900px;
+	background-color: #e7e7e7;
+	border-radius: 6px;
+	border: 1px solid black;
+	margin-bottom: 2vw;
+}
